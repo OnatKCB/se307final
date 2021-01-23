@@ -1,0 +1,12 @@
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\bin\Debug\ArmoryManagementSystemFinal.exe.config
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\bin\Debug\ArmoryManagementSystemFinal.exe
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\bin\Debug\ArmoryManagementSystemFinal.pdb
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\obj\Debug\ArmoryManagementSystemFinal.csprojAssemblyReference.cache
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\obj\Debug\ArmoryManagementSystemFinal.LoginForm.resources
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\obj\Debug\ArmoryManagementSystemFinal.Properties.Resources.resources
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\obj\Debug\ArmoryManagementSystemFinal.WeaponAdminDetail.resources
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\obj\Debug\ArmoryManagementSystemFinal.WeaponUserDetail.resources
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\obj\Debug\ArmoryManagementSystemFinal.csproj.GenerateResource.cache
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\obj\Debug\ArmoryManagementSystemFinal.csproj.CoreCompileInputs.cache
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\obj\Debug\ArmoryManagementSystemFinal.exe
+C:\Users\onatc\source\repos\ArmoryManagementSystemFinal\ArmoryManagementSystemFinal\obj\Debug\ArmoryManagementSystemFinal.pdb
